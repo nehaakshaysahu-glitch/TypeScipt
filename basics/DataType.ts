@@ -48,10 +48,11 @@
 //used to create unique identifiers
 // === : strict operator
 
-let n1 = Symbol("Vishu");
-let n2 = Symbol("Vishu");
+// let n1 = Symbol("Vishu");
+// let n2 = Symbol("Vishu");
 
-console.log(n1 === n2);
+// console.log(n1 === n2);
 
+console.log("Hello  all , checking GITHUB")
 
 
