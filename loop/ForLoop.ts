@@ -9,13 +9,13 @@
 // console.log("6");
 // console.log("7");
 
-//1.ForLoops : cheking github by addding comment here
+//1.ForLoops : cheking github by addding comment here 123
 
 // for (let i : number =1 ; i<=3; i++) {
 //     console.log(i);
 // }
 
-//2. Nested for loop : cheking github by addding comment here
+//2. Nested for loop : cheking github by addding comment here changing
 
 //when we have to define the data in row and column that time we have to use NFL
 
