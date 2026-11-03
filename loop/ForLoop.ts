@@ -9,13 +9,14 @@
 // console.log("6");
 // console.log("7");
 
-//1.ForLoops
+//1.ForLoops : cheking github by addding comment here
 
 // for (let i : number =1 ; i<=3; i++) {
 //     console.log(i);
 // }
 
-//2. Nested for loop
+//2. Nested for loop : cheking github by addding comment here
+
 //when we have to define the data in row and column that time we have to use NFL
 
 // for (let i : number = 1; i<=3; i++) {    //represent row
